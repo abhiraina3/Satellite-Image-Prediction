@@ -16,7 +16,8 @@ Satellite Image Classification Dataset :
   3. Count of data points in each class :
   
   ![image](https://user-images.githubusercontent.com/52949047/181217384-d0790f51-dce2-40cf-87c5-dc3748f9af1b.png)
-  4. Samples : 
+ 
+ 4. Samples : 
   
   ![image](https://user-images.githubusercontent.com/52949047/181217594-e562bad9-79aa-46fb-9eb4-05de000c2fd7.png)
   
