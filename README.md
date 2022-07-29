@@ -45,8 +45,10 @@
   
   ![image](https://user-images.githubusercontent.com/52949047/181712530-6c73cf8c-a427-42bc-8216-09dc80f62105.png)
 
+
   a. DepthWise Separable Convolution 
     Uses depthwise Convolution , stacked with pointwise convolution
+  
   b. Reduces Number of parameters
   
   
